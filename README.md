@@ -23,3 +23,22 @@ The platform follows a microservices architecture consisting of the following co
 - **MongoDB / MySQL** – Provides persistent storage for application data.
 - **Kubernetes** – Manages containerized services and service-to-service communication.
 - **Observability Stack** – Provides application metrics, logs, and distributed tracing.
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- Spring Web / REST APIs
+- Spring Data JPA
+- MySQL
+- Spring Cloud
+- Spring Cloud Gateway
+- Eureka Service Discovery
+- Resilience4j
+- Apache Kafka
+- Event-driven asynchronous communication
+- Synchronous REST communication
+- Docker
+- Kubernetes
+- Kubernetes Services
+- Keycloak
